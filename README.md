@@ -160,14 +160,6 @@ _To compile the game i used this code_:
 
  `clang -o tictactoe main.c game.c` and run it with `./tictactoe`
 
-
-
-
-
-
-
-
-
 ---
 
 _I  am now going to commit and push my project onto my gitlab repo by doing:_
